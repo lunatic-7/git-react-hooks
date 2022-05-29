@@ -1,0 +1,114 @@
+{
+  "posts": [
+    {
+      "id": "react-hooks",
+      "title": "React Hooks",
+      "content": "The greatest thing since sliced bread!",
+      "author": "Daniel Bugl"
+    },
+    {
+      "id": "react-fragments",
+      "title": "Using React Fragments",
+      "content": "Keeping the DOM tree clean!",
+      "author": "Daniel Bugl"
+    },
+    {
+      "title": "Dekhte hai",
+      "content": "bs bs itna ni khna!",
+      "author": "Mano",
+      "id": "YcTtmjE"
+    },
+    {
+      "title": "Yo Man",
+      "content": "hehe",
+      "author": "Casanova",
+      "id": "8wd_n3U"
+    },
+    {
+      "title": "zzzzz",
+      "content": "zzz",
+      "author": "zzz",
+      "id": "Ib71gpP"
+    },
+    {
+      "title": "Test",
+      "content": "Testing",
+      "author": "Mano",
+      "id": "aHlimUo"
+    },
+    {
+      "title": "yay",
+      "content": "did it!",
+      "author": "Mano",
+      "id": "LlnO2t-"
+    },
+    {
+      "title": "hi there",
+      "content": "hi there",
+      "author": "hi there",
+      "id": "hmHxNKJ"
+    },
+    {
+      "title": "Creating",
+      "content": "Created",
+      "author": "hey",
+      "id": "ZPzlwsm"
+    },
+    {
+      "title": "mw dm",
+      "content": "bbb",
+      "author": "hey",
+      "id": "rCa2S-6"
+    },
+    {
+      "title": "Hi there!",
+      "content": "Kya haal hai!",
+      "author": "Ray",
+      "id": "kT-CIyc"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "Daniel Bugl",
+      "password": "supersecure42"
+    },
+    {
+      "username": "Mano",
+      "password": "sss",
+      "id": 2
+    },
+    {
+      "username": "hey",
+      "password": "hi",
+      "id": 3
+    },
+    {
+      "username": "hi there",
+      "password": "hi there",
+      "id": 4
+    },
+    {
+      "username": "Ray",
+      "password": "hey",
+      "id": 5
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "primaryColor": "deepskyblue",
+      "secondaryColor": "coral"
+    },
+    {
+      "id": 2,
+      "primaryColor": "orchid",
+      "secondaryColor": "mediumseagreen"
+    },
+    {
+      "id": 3,
+      "primaryColor": "darkslategray",
+      "secondaryColor": "slategray"
+    }
+  ]
+}
