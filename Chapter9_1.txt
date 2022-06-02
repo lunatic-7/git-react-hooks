@@ -1,0 +1,27 @@
+-> Calling Hooks:
+Hooks should only be called in React function components or custom Hooks. They cannot be 
+used in class components or regular JavaScript functions.
+
+Hooks can be called at the top level of the following:
+1. React function components
+2. Custom Hooks
+
+-> Order of Hooks:
+Only call Hooks at the top level/beginning of function components or custom Hooks.
+Do not call Hooks inside conditions, loops, or nested functions—doing so changes the order
+of Hooks, which causes bugs.
+
+-> Names of Hooks:
+There is a convention that Hook functions should always be prefixed with use, followed by
+the Hook name starting with a capital letter; for example: useState, useEffect, and
+useResource. This is important, because otherwise we would not know which JavaScript
+functions are Hooks, and which are not. Especially when enforcing the rules of Hooks, we
+need to know which functions are Hooks so that we can make sure they are not being
+called conditionally or in loops.
+
+-> Dealing with useEffect dependencies:
+In addition to enforcing the rules of Hooks, we are also checking whether all the variables
+that are used in an Effect Hook are passed to its dependency array. This exhaustive
+dependencies rule ensures that whenever something that is used inside the Effect Hook
+changes (a function, value, and so on), the Hook will trigger again.
+
