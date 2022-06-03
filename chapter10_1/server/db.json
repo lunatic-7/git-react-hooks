@@ -1,0 +1,235 @@
+{
+  "posts": [
+    {
+      "id": "react-hooks",
+      "title": "React Hooks",
+      "content": "The greatest thing since sliced bread!",
+      "author": "Daniel Bugl"
+    },
+    {
+      "id": "react-fragments",
+      "title": "Using React Fragments",
+      "content": "Keeping the DOM tree clean!",
+      "author": "Daniel Bugl"
+    },
+    {
+      "title": "Dekhte hai",
+      "content": "bs bs itna ni khna!",
+      "author": "Mano",
+      "id": "YcTtmjE"
+    },
+    {
+      "title": "Yo Man",
+      "content": "hehe",
+      "author": "Casanova",
+      "id": "8wd_n3U"
+    },
+    {
+      "title": "zzzzz",
+      "content": "zzz",
+      "author": "zzz",
+      "id": "Ib71gpP"
+    },
+    {
+      "title": "Test",
+      "content": "Testing",
+      "author": "Mano",
+      "id": "aHlimUo"
+    },
+    {
+      "title": "yay",
+      "content": "did it!",
+      "author": "Mano",
+      "id": "LlnO2t-"
+    },
+    {
+      "title": "hi there",
+      "content": "hi there",
+      "author": "hi there",
+      "id": "hmHxNKJ"
+    },
+    {
+      "title": "Creating",
+      "content": "Created",
+      "author": "hey",
+      "id": "ZPzlwsm"
+    },
+    {
+      "title": "mw dm",
+      "content": "bbb",
+      "author": "hey",
+      "id": "rCa2S-6"
+    },
+    {
+      "title": "Hi there!",
+      "content": "Kya haal hai!",
+      "author": "Ray",
+      "id": "kT-CIyc"
+    },
+    {
+      "title": "Dekhte hai",
+      "content": "HHH",
+      "author": "Ray",
+      "id": "86oXLzT"
+    },
+    {
+      "title": "Newone",
+      "content": "Hey man Newone is here! How are you What about you???",
+      "author": "newone",
+      "id": "2hEeDjB"
+    },
+    {
+      "title": "Checking",
+      "content": "check",
+      "author": "newone",
+      "id": "Pd57FRW"
+    },
+    {
+      "title": "Checking",
+      "content": "check 2",
+      "author": "newone",
+      "id": "eBFmLWM"
+    },
+    {
+      "title": "Checking",
+      "content": "check 3",
+      "author": "newone",
+      "id": "9ae6z8d"
+    },
+    {
+      "title": "Checking",
+      "content": "check 4",
+      "author": "newone",
+      "id": "VTlDFtn"
+    },
+    {
+      "title": "Checking",
+      "content": "check 5",
+      "author": "newone",
+      "id": "x_OrlAl"
+    },
+    {
+      "title": "Checking",
+      "content": "check 6 hewudewfh h h crfcvweyfcvyuec  cr eyyrvfcyu\n",
+      "author": "Temp",
+      "id": "4MGz_QY"
+    },
+    {
+      "title": "Dekhte hai",
+      "content": "dkho",
+      "author": "newone",
+      "id": "TOscttO"
+    },
+    {
+      "title": "Create Checking",
+      "content": "Checked with 30+ Characters ahhhhh yay hshshs",
+      "author": "New Id",
+      "id": "3TWX48K"
+    },
+    {
+      "title": "Dekhte hai",
+      "content": "ddd",
+      "author": "heybro",
+      "id": "qIHk_Fy"
+    },
+    {
+      "title": "UseInput('')",
+      "content": "Testing useInput ",
+      "author": "heybro",
+      "id": "OsVnOdV"
+    },
+    {
+      "title": "hi",
+      "content": "hi there",
+      "author": "newone",
+      "id": "gX7jH8i"
+    },
+    {
+      "title": "Dekhte hai",
+      "content": "hhhhhhhhhh hhvhhgch",
+      "author": "newone",
+      "id": "5OLgble"
+    },
+    {
+      "title": "jsb h d he fh 12e3he de hd wehd",
+      "content": "dddd ewjde d32 hh2h2 iu3u32 u3r988r3 3 32urvru3 32 uur",
+      "author": "newone",
+      "id": "PKOTovM"
+    },
+    {
+      "title": "Aww Hawww ",
+      "content": "yay",
+      "author": "Mano",
+      "id": "namxIJT"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "Daniel Bugl",
+      "password": "supersecure42"
+    },
+    {
+      "username": "Mano",
+      "password": "sss",
+      "id": 2
+    },
+    {
+      "username": "hey",
+      "password": "hi",
+      "id": 3
+    },
+    {
+      "username": "hi there",
+      "password": "hi there",
+      "id": 4
+    },
+    {
+      "username": "Ray",
+      "password": "hey",
+      "id": 5
+    },
+    {
+      "username": "newone",
+      "password": "new",
+      "id": 6
+    },
+    {
+      "username": "Temp",
+      "password": "temp",
+      "id": 7
+    },
+    {
+      "username": "New Id",
+      "password": "coming",
+      "id": 8
+    },
+    {
+      "username": "heybro",
+      "password": "heybro",
+      "id": 9
+    },
+    {
+      "username": "Mano",
+      "password": "mano",
+      "id": 10
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "primaryColor": "deepskyblue",
+      "secondaryColor": "coral"
+    },
+    {
+      "id": 2,
+      "primaryColor": "orchid",
+      "secondaryColor": "mediumseagreen"
+    },
+    {
+      "id": 3,
+      "primaryColor": "darkslategray",
+      "secondaryColor": "slategray"
+    }
+  ]
+}
