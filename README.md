@@ -4,9 +4,9 @@ React Hooks Professional
 Chapter 1: Introducing React and React Hooks
 Chapter 2: Using the State Hook
 Chapter 3: Writing Your first application with React Hooks
-Chapter 4: Using the Reducer and Effec Hooks
+Chapter 4: Using the Reducer and Effect Hooks
 Chapter 5: Implementing React Context
-Chapter 6: Implementing React and React Suspense
+Chapter 6: Implementing Requests and React Suspense
 Chapter 7: Using Hooks for Routing
 Chapter 8: Using community Hooks
 Chapter 9: Rules of Hooks
